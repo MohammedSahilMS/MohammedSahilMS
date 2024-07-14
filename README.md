@@ -1,5 +1,5 @@
   <div style=" display: flex; justify-content: center; align-items: center;">
-      <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" style="width: 100%; height: 330px;">
+      <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Banner" style="width: 100%; height: 250px;">
   </div>
 <h1 align="center">Hi 👋, I'm Mohammed Sahil M S</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
