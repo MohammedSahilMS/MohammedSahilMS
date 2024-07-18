@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Ai Image Generator**
 
-- 🌱 I’m currently learning **GSAP , Three.js**
+- 🌱 I’m currently learning **Appwrite , GSAP , Three.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohammedSahilMS/MohammedSahilMS](https://github.com/MohammedSahilMS/MohammedSahilMS)
 
